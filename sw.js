@@ -1,17 +1,17 @@
 const version = '1.0.0-' + new Date().getTime();
 const CACHE_NAME = `work-time-calculator-v${version}`;
 const staticAssets = [
-  "/",
-  "/index.html",
-  "/styles.css",
-  "/script.js",
-  "/manifest.json",
-  "/android-icon-36x36.png",
-  "/android-icon-48x48.png",
-  "/android-icon-72x72.png",
-  "/android-icon-96x96.png",
-  "/android-icon-144x144.png",
-  "/android-icon-192x192.png",
+  "./",
+  "./index.html",
+  "./styles.css",
+  "./script.js",
+  "./manifest.json",
+  "./android-icon-36x36.png",
+  "./android-icon-48x48.png",
+  "./android-icon-72x72.png",
+  "./android-icon-96x96.png",
+  "./android-icon-144x144.png",
+  "./android-icon-192x192.png",
 ];
 
 self.addEventListener('install', (event) => {
