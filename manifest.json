@@ -2,6 +2,12 @@
   "name": "Work Time Calculator",
   "short_name": "Work Time Calc",
   "description": "A simple app to calculate work end time based on start time and duration.",
+  "display": "standalone",
+  "start_url": ".",
+  "id": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "scope": "/",
   "icons": [
     {
       "src": "android-icon-36x36.png",
@@ -39,10 +45,5 @@
       "type": "image/png",
       "density": "4.0"
     }
-  ],
-  "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#007BFF",
-  "scope": "/"
+  ]
 }
