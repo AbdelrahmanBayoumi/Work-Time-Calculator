@@ -1,6 +1,6 @@
 {
   "name": "Work Time Calculator",
-  "short_name": "TimeCalc",
+  "short_name": "Work Time Calc",
   "description": "A simple app to calculate work end time based on start time and duration.",
   "icons": [
     {
