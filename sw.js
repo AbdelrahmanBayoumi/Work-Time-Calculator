@@ -1,4 +1,4 @@
-const version = '1.0.0-' + new Date().getTime();
+const version = '1.0.1-' + new Date().getTime();
 const CACHE_NAME = `work-time-calculator-v${version}`;
 const staticAssets = [
   "./",
