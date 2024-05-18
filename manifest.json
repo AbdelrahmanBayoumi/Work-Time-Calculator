@@ -40,9 +40,9 @@
       "density": "4.0"
     }
   ],
-  "start_url": "Work-Time-Calculator/index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007BFF",
-  "scope": "/Work-Time-Calculator"
+  "scope": "/"
 }
